@@ -1,0 +1,255 @@
+.nav-bar {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo h1 {
+    color: #fd6f00;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.navbar-other-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.download-cv button {
+    background: #fd6f00;
+    font-weight: bold;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner-texts {
+    padding-top: 180px;
+}
+
+.banner-texts p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+.design-development-webflow {
+    display: flex;
+    gap: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.social-media{
+    padding: 15px 10px;
+}
+
+.about-me {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 250px;
+    padding-bottom: 40px;
+}
+
+.experience {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.my-experience h3 {
+    padding-bottom: 20px;
+}
+
+.my-experience p {
+    padding-top: 20px;
+}
+
+.no-1{
+    border-bottom: 2px solid wheat;
+}
+
+.experience-years-1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.no-1 h1{
+    padding: 20px ;
+}
+
+.awards-text h1 {
+   text-align: center;
+    padding-top: 100px;
+   
+}
+
+.awards-text p {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.award {
+    padding-top: 100px;
+}
+
+.container {
+    padding-top: 150px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+
+.container h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.container p {
+    margin-bottom: 15px;
+}
+
+.services {
+    font-size: larger;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 10px;
+}
+
+.services span {
+    font-weight: bold;
+    font-size: larger;
+    margin: 0 10px;
+   
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.content.reverse {
+    flex-direction: row-reverse;
+}
+
+.case-study {
+    flex: 1;
+    padding: 20px;
+}
+
+.image {
+    flex: 1;
+    padding: 20px;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.form-container {
+    text-align: center;
+}
+
+.contact {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.reach-out {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.project {
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.form-container-1 {
+    border-radius: 8px;
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group button {
+    background-color: #fd6f00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #e05c00;
+}
+
+.padding-both {
+    background-color: black;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+footer {
+    background-color: rgb(8, 8, 58);
+    color: #fff;
+    text-align: center;
+}
+
+.again-nav{
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icons{
+    padding: 30px;
+}
+
+.social-link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 40px;
+    padding: 4px 10px;  
+    margin: 15px 5px;
+}
+
+.last-bar {
+    background-color: gray;
+}

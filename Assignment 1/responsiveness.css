@@ -1,0 +1,37 @@
+@media only screen and (min-width: 200px) and (max-width: 576px) {
+    .nav-bar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .navbar-other-section {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .banner {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner-image {
+        margin: 20px 0;
+    }
+
+    footer {
+        padding: 20px;
+    }
+
+    .container .content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .form-container form {
+        flex-direction: column;
+    }
+
+    .form-group {
+        width: 100%;
+    }
+}
